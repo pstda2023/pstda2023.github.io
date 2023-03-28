@@ -5,23 +5,23 @@ permalink: /organization/
 ---
 
 ### **General Chair**
-- Shui Yu, University of Technology Sydney, Australia
+<!-- - Shui Yu, University of Technology Sydney, Australia
 - Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
-- Guanfeng Liu, Macquarie University, Australia
+- Guanfeng Liu, Macquarie University, Australia -->
 ### **Program Chair**
-- Bin Yang, Aalborg University, Denmark
+<!-- - Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
-- [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia
+- [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
 ### **Publicity Chair**
-- Hongxu Chen, University of Technology Sydney, Australia
-- Hongsheng Hu, University of Auckland, New Zealand
+<!-- - Hongxu Chen, University of Technology Sydney, Australia
+- Hongsheng Hu, University of Auckland, New Zealand -->
 ### **Sponsorship Chair**
-- Zhi Zhang, Data61, Australia
-- Lianyong Qi, Qufu Normal University, China
+<!-- - Zhi Zhang, Data61, Australia
+- Lianyong Qi, Qufu Normal University, China -->
 ### **Web Chair**
-- Haolong Xiang, Macquarie University, Australia
+<!-- - Haolong Xiang, Macquarie University, Australia -->
 ### **Technical Program Committee**
-To be updated ...
+<!-- To be updated ...
 Following are tentative PC members
 - Lingjuan Lyu,National University of Singapore,Singapore
 - Luigi Catuogno, University of Salerno, Italy 
@@ -48,4 +48,4 @@ Following are tentative PC members
 - Yirui Wu,Hohai University,China
 - Liangfu Lv,Tianjin University,China
 - Shunmei Meng,Nanjing University of Science and Technology,China
-- Yanwei Xu,Tianjin University,China
+- Yanwei Xu,Tianjin University,China -->

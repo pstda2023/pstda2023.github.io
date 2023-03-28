@@ -5,7 +5,7 @@ permalink: /program/
 order: 1
 ---
 ### **Conference Program**
-**DSAA2023 conference program can be found [here](https://csse.szu.edu.cn/dsaa2022/Pages/program-glance)**
+**DSAA2023 conference program can be found here**
 
 **PSTDA2023 Special Session is TBD.**
 
