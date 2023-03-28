@@ -10,7 +10,7 @@ permalink: /cfp/
 
 <br/>
 
-<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacy-preserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc. </div>
+<div style="text-align: justify"> This special session mainly focuses on the discussions of privacy, security, and trust in data analytics, which generally covers (but not limited to) the topics in privacypreserving technology, privacy attacks, federated learning, machine unlearning, data poisoning attacks, model evasion attacks, adversarial learning, model robustness, secure machine learning integrating cryptographic techniques, blockchain techniques protection PST of data and models, etc.</div>
 
 <br/>
 
@@ -20,40 +20,29 @@ permalink: /cfp/
 
 <br/>
 
-- New privacy, security and trust opportunities and challenges in data analytics 
-
-- Novel theories and modelling for privacy, security, and trust in data analytics 
-
-- Private, secure, and trust deep learning for data analytics 
-
-- Privacy-preserving data mining and machine learning 
-
-- Federated/collaborative learning 
-
-- Machine unlearning 
-
-- Adversarial machine learning for robust data analytics 
-
-- Transfer learning for private, secure, and trust data analytics 
-
-- Data poisoning and model evasion attacks and defences 
-
-- Cryptographic techniques based private, secure, and trust data analytics 
-
-- Privacy, security, and trust management for data analytics 
-
-- Blockchain for privacy, security, and trust in data analytics 
-
-- Real-world applications for private, secure and trust data analytics 
+- New privacy, security and trust opportunities and challenges in data analytics
+- Novel theories and modelling for privacy, security, and trust in data analytics
+- Private, secure, and trust deep learning for data analytics
+- Privacy-preserving data mining and machine learning
+- Federated/collaborative learning
+- Machine unlearning
+- Adversarial machine learning for robust data analytics
+- Transfer learning for private, secure, and trust data analytics
+- Data poisoning and model evasion attacks and defences
+- Cryptographic techniques based private, secure, and trust data analytics
+- Privacy, security, and trust management for data analytics
+- Blockchain for privacy, security, and trust in data analytics
+- Real-world applications for private, secure and trust data analytics
+- Privacy, security and privacy issues, trends, and challenges in data analytics
 
 <br/>
 
 # **Submission Guideline and Reviewing**
 
-**Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022)
+**Submission portal:** 
+<!-- **Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022) -->
 
-
-<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA2022 Important Policies](http://dsaa2022.dsaa.co/research-application-track-and-journal-track-papers/) for more details. In particular:
+<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA203 Important Policies](https://conferences.sigappfr.org/dsaa2023/cfp-for-special-sessions-track/) for more details. In particular:
 
 - All papers submitted to special sessions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
 
@@ -75,4 +64,3 @@ permalink: /cfp/
 
 <div style="text-align: justify"> All accepted full-length special session papers will be published by IEEE in the DSAA main conference proceedings under its Special Session scheme. All papers will be submitted for inclusion in the IEEEXplore Digital Library. The conference proceedings will be submitted for EI indexing through INSPEC by IEEE. At least one of the authors of the accepted papers must register for the special session for the paper to be included into the conference proceedings. The accepted papers will be invited for presentation during the conference. High quality accepted workshop papers with significant revision and extension would be further recommended to special issues in the following associated SCI/SCIE indexed journals. </div>
 
-- TBA ...
