@@ -19,7 +19,6 @@ permalink: /cfp/
 <div style="text-align: justify"> This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to: </div>
 
 <br/>
-
 - New privacy, security and trust opportunities and challenges in data analytics
 - Novel theories and modelling for privacy, security, and trust in data analytics
 - Private, secure, and trust deep learning for data analytics
@@ -34,7 +33,6 @@ permalink: /cfp/
 - Blockchain for privacy, security, and trust in data analytics
 - Real-world applications for private, secure and trust data analytics
 - Privacy, security and privacy issues, trends, and challenges in data analytics
-
 <br/>
 
 # **Submission Guideline and Reviewing**
@@ -42,8 +40,9 @@ permalink: /cfp/
 **Submission portal:** 
 <!-- **Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022) -->
 
-<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA203 Important Policies](https://conferences.sigappfr.org/dsaa2023/cfp-for-special-sessions-track/) for more details. In particular:
+<div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA203 Important Policies](https://conferences.sigappfr.org/dsaa2023/cfp-for-special-sessions-track/) for more details. In particular: </div>
 
+<br/>
 - All papers submitted to special sessions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
@@ -57,8 +56,7 @@ permalink: /cfp/
 - Special Session organizers will make recommendations of acceptance/rejection for papers in their sessions, which must be validated by General chairs, Research, and Application track chairs.
 
 - To guarantee uniform quality control for all special sessions and to be consistent with the main conference, the final decisions of special session paper acceptance/rejection are made by the DSAA Program Chairs.
-
- </div>
+<br/>
 
 # **Proceedings, Indexing and Special Issues**
 
