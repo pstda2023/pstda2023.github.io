@@ -10,7 +10,7 @@ permalink: /
 ---
 <!-- ![banner image](shenzhen.jpeg) -->
 <p align="center">
-	<img src="figures/shenzhen.jpeg" width="750">
+	<img src="figures/banner.jpg" width="750">
 </p>
 
 <br/>
@@ -27,6 +27,6 @@ Welcome to the DSAA2022 Special Session on Private, Secure, and Trust Data Analy
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
 	<img src="figures/01-data.jpg" width="120">
-</p>
+</p> -->
