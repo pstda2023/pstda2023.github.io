@@ -5,13 +5,19 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
+<figure class="third">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+    <img src="http://zzz.jpg">
+</figure>
 
-<img src="../figures/amin.jpg" width="160"/>
-<br/>
+
+<img align="left" src="../figures/amin.jpg" width="230"/>
+
 Amin Beheshti
-<br/>
+
 Professor
-<br/>
+
 Macquarie University
 
 <br/>
@@ -36,9 +42,8 @@ Macquarie University
 
 <br/>
 
+
 ### **Program Chair**
-
-
 <img src="../figures/hu.jpg" width="160">
 <br/>
 Jilin Hu
