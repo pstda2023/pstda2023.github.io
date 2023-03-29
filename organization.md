@@ -11,14 +11,19 @@ permalink: /organization/
 Amin Beheshti
 <br/>
 Professor
-
+<br/>
 Macquarie University
 
+<br/>
 
 <img src="../figures/sheng.jpg" align="left" width="160">
-
-- A/Prof. Victor S. Sheng, Texas Tech University
 <br/>
+Victor S. Sheng
+
+Associate professor
+<br/>
+Texas Tech University
+
 
 <img src="../figures/guanfeng.jpg" align="left" width="160">
 
