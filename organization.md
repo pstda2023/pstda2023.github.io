@@ -5,12 +5,6 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
-<figure class="third">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
-    <img src="http://zzz.jpg">
-</figure>
-
 
 <img align="center" src="../figures/amin.jpg" width="230"/>
 
