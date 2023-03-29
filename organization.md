@@ -5,22 +5,22 @@ permalink: /organization/
 ---
 
 
-|<font size=5>**Genral Chairs**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
+|<font size=5>**Genral Chairs**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|-------------------|--------------|
 |<img align="center" src="../figures/amin.jpg" width="180"/> |**Amin Beheshti** <br><br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="180"/>      | **Victor S. Sheng** <br><br>*Associate professor*<br>*Texas Tech University*
 |<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br><br>*Senior Lecturer*<br>*Macquarie University* |   
 
 
-|   <font size=5>**Program Chairs**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
+|   <font size=5>**Program Chairs**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
 |<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  
 
-|   <font size=5>**Publicity Chair**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
+|   <font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
 |<img align="center" src="../figures/hongsheng.jpg" width="180"/> |**Hongsheng Hu** <br><br>*Data61, CSIRO*<br>*University of Auckland* |  
 
 
-|   <font size=5>**Sponsorship Chair**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
+|   <font size=5>**Sponsorship Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
 |<img align="center" src="../figures/lianyong.jpg" width="180"/> |**Lianyong Qi**<br> <br>*Professor,*<br>*University of Auckland* |  
 
