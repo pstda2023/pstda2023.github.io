@@ -22,7 +22,7 @@ permalink: /organization/
 
 |   <font size=5>**Sponsorship Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/lianyong.jpg" width="180"/> |**Lianyong Qi**<br> <br>*Professor,*<br>*University of Auckland* |  
+|<img align="center" src="../figures/lianyong.jpg" width="180"/> |**Lianyong Qi**<br> <br>*Professor*<br>*China University of Petroleum (East China)* |  
 
 
 
