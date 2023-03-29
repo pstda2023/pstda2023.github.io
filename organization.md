@@ -19,7 +19,7 @@ permalink: /organization/
 
 ### **Program Chair**
 
-<img src="../figures/photo-zhu.jpeg" align="left" width="160">
+<img src="../figures/hu.jpg" align="left" width="160">
 
 - A/Prof. Jilin Hu, Aalborg University
 <!-- - Bin Yang, Aalborg University, Denmark
@@ -28,6 +28,7 @@ permalink: /organization/
 
 ### **Publicity Chair**
 <img src="../figures/photo-zhu.jpeg" align="left" width="160">
+
 - Hongsheng Hu, University of Auckland
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand -->
@@ -35,12 +36,14 @@ permalink: /organization/
 
 ### **Sponsorship Chair**
 <img src="../figures/photo-zhu.jpeg" align="left" width="160">
+
 - Lianyong Qi, Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
 
 ### **Web Chair**
 <img src="../figures/photo-zhu.jpeg" align="left" width="160">
+
 <!-- - Haolong Xiang, Macquarie University, Australia -->
 
 ### **Technical Program Committee**
