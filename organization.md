@@ -19,23 +19,34 @@ Macquarie University
 <img src="../figures/sheng.jpg" align="left" width="160">
 <br/>
 Victor S. Sheng
-
+<br/>
 Associate professor
 <br/>
 Texas Tech University
 
+<br/>
 
 <img src="../figures/guanfeng.jpg" align="left" width="160">
+<br/>
+Guanfeng, Liu
+<br/>
+Senior Lectuer
+<br/>
+Macquarie University
 
-- Dr. Guanfeng, Liu, Macquarie University
 <br/>
 
 ### **Program Chair**
 
 
 <img src="../figures/hu.jpg" align="left" width="160">
-
-- A/Prof. Jilin Hu, Aalborg University
+<br/>
+Jilin Hu
+<br/>
+Associate professor
+<br/>
+Aalborg University
+<br/>
 <!-- - Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
@@ -43,22 +54,28 @@ Texas Tech University
 
 ### **Publicity Chair**
 <img src="../figures/hongsheng.jpg" align="left" width="160">
-
-- Hongsheng Hu, University of Auckland
+<br/>
+Hongsheng Hu
+<br/>
+University of Auckland
+<br/>
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand -->
 <br/>
 
 ### **Sponsorship Chair**
 <img src="../figures/lianyong.jpg" align="left" width="160">
-
-- Lianyong Qi, Qufu Normal University
+<br/>
+Lianyong Qi
+<br/>
+Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
+
 <br/>
 
 ### **Web Chair**
-
+<br/>
 <!-- - Haolong Xiang, Macquarie University, Australia -->
 
 ### **Technical Program Committee**
