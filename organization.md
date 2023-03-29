@@ -5,11 +5,11 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
-<img src="../figures/amin.jpeg" align="left" width="160">
+<img src="../figures/amin.jpg" align="left" width="160">
 - Amin Beheshti, Macquarie University
-<img src="../figures/sheng.jpeg" align="left" width="160">
+<img src="../figures/sheng.jpg" align="left" width="160">
 - A/Prof. Victor S. Sheng, Texas Tech University
-<img src="../figures/photo-zhu.jpeg" align="left" width="160">
+<img src="../figures/guanfeng.jpg" align="left" width="160">
 - Dr. Guanfeng, Liu, Macquarie University
 
 ### **Program Chair**
