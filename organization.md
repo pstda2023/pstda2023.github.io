@@ -4,18 +4,21 @@ title: Organization
 permalink: /organization/
 ---
 
-### **General Chair**
-<!-- - Shui Yu, University of Technology Sydney, Australia
-- Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
-- Guanfeng Liu, Macquarie University, Australia -->
+### **General Chairs**
+- Amin Beheshti, Macquarie University
+- A/Prof. Victor S. Sheng, Texas Tech University
+- Dr. Guanfeng, Liu, Macquarie University
 ### **Program Chair**
+- A/Prof. Jilin Hu, Aalborg University
 <!-- - Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
 ### **Publicity Chair**
+- Hongsheng Hu, University of Auckland
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand -->
 ### **Sponsorship Chair**
+- Lianyong Qi, Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
 ### **Web Chair**
