@@ -8,7 +8,7 @@ permalink: /organization/
 |    |    |    |     ||
 |-----------|--------|---------|-----------|--------------|
 |<img align="center" src="../figures/amin.jpg" width="230"/> |       Amin Beheshti<br>Professor<br>adipisicing |   |<img align="center" src="../figures/amin.jpg" width="230"/>      | Amin Beheshti<br>Professor<br>adipisicing 
-
+|<img align="center" src="../figures/amin.jpg" width="230"/> |       Amin Beheshti<br>Professor<br>adipisicing |   |<img align="center" src="../figures/amin.jpg" width="230"/>      | Amin Beheshti<br>Professor<br>adipisicing 
 
 
 
