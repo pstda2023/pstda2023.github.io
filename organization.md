@@ -27,7 +27,7 @@ permalink: /organization/
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
 
 ### **Publicity Chair**
-<img src="../figures/photo-zhu.jpeg" align="left" width="160">
+<img src="../figures/hongsheng.jpg" align="left" width="160">
 
 - Hongsheng Hu, University of Auckland
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
@@ -35,14 +35,13 @@ permalink: /organization/
 
 
 ### **Sponsorship Chair**
-<img src="../figures/photo-zhu.jpeg" align="left" width="160">
+<img src="../figures/lianyong.jpg" align="left" width="160">
 
 - Lianyong Qi, Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
 
 ### **Web Chair**
-<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 
 <!-- - Haolong Xiang, Macquarie University, Australia -->
 
