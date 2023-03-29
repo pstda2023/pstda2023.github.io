@@ -6,7 +6,7 @@ permalink: /organization/
 
 ### **General Chairs**
 
-<img src="../figures/sheng.jpg" align="left" width="160"/>
+<img src="../figures/amin.jpg" width="160"/>
 <br/>
 Amin Beheshti
 <br/>
@@ -16,7 +16,7 @@ Macquarie University
 
 <br/>
 
-<img src="../figures/sheng.jpg" align="left" width="160">
+<img src="../figures/sheng.jpg" width="160">
 <br/>
 Victor S. Sheng
 <br/>
@@ -26,7 +26,7 @@ Texas Tech University
 
 <br/>
 
-<img src="../figures/guanfeng.jpg" align="left" width="160">
+<img src="../figures/guanfeng.jpg" width="160">
 <br/>
 Guanfeng, Liu
 <br/>
@@ -39,7 +39,7 @@ Macquarie University
 ### **Program Chair**
 
 
-<img src="../figures/hu.jpg" align="left" width="160">
+<img src="../figures/hu.jpg" width="160">
 <br/>
 Jilin Hu
 <br/>
@@ -53,7 +53,7 @@ Aalborg University
 <br/>
 
 ### **Publicity Chair**
-<img src="../figures/hongsheng.jpg" align="left" width="160">
+<img src="../figures/hongsheng.jpg" width="160">
 <br/>
 Hongsheng Hu
 <br/>
@@ -64,7 +64,7 @@ University of Auckland
 <br/>
 
 ### **Sponsorship Chair**
-<img src="../figures/lianyong.jpg" align="left" width="160">
+<img src="../figures/lianyong.jpg" width="160">
 <br/>
 Lianyong Qi
 <br/>
