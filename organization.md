@@ -5,8 +5,14 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
-| <img src="../figures/amin.jpg" align="left" width="160">
-Amin Beheshti, Professor, Macquarie University |
+
+![](../figures/amin.jpg "Amin Beheshti")
+
+Amin Beheshti
+
+Professor
+
+Macquarie University
 
 <br/>
 
