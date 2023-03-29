@@ -5,24 +5,37 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
+<img src="../figures/amin.jpeg" align="left" width="160">
 - Amin Beheshti, Macquarie University
+<img src="../figures/sheng.jpeg" align="left" width="160">
 - A/Prof. Victor S. Sheng, Texas Tech University
+<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 - Dr. Guanfeng, Liu, Macquarie University
+
 ### **Program Chair**
+<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 - A/Prof. Jilin Hu, Aalborg University
 <!-- - Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
+
 ### **Publicity Chair**
+<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 - Hongsheng Hu, University of Auckland
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand -->
+
+
 ### **Sponsorship Chair**
+<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 - Lianyong Qi, Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
+
 ### **Web Chair**
+<img src="../figures/photo-zhu.jpeg" align="left" width="160">
 <!-- - Haolong Xiang, Macquarie University, Australia -->
+
 ### **Technical Program Committee**
 <!-- To be updated ...
 Following are tentative PC members
