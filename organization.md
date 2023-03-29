@@ -5,44 +5,20 @@ permalink: /organization/
 ---
 
 
-|   <font size=5>**Genral Chairs**</font> |    |    |     ||
-|-----------|--------|---------|-----------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University* |   |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
+|   <font size=5>**Genral Chairs**</font> |    |        ||
+|-----------|--------|-------------------|--------------|
+|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
 |<img align="center" src="../figures/guanfeng.jpg" width="230"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
 
 
-|   <font size=5>Genral Chairs</font> |    |    |     ||
-|-----------|--------|---------|-----------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University* |   |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
-|<img align="center" src="../figures/guanfeng.jpg" width="230"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
+|   <font size=5>**Program Chairs**</font> |    |    |     |
+|-----------|--------|--------------------|--------------|
+|<img align="center" src="../figures/hu.jpg" width="230"/> |**Jilin Hu** <br>*Associate professor*<br>*Aalborg University* |  
 
+|   <font size=5>**Publicity Chair**</font> |    |    |     |
+|-----------|--------|--------------------|--------------|
+|<img align="center" src="../figures/hongsheng.jpg" width="230"/> |**Hongsheng Hu** <br>*Associate professor*<br>*University of Auckland* |  
 
-
-
-### **Program Chair**
-<img src="../figures/hu.jpg" width="160">
-<br/>
-Jilin Hu
-<br/>
-Associate professor
-<br/>
-Aalborg University
-<br/>
-<!-- - Bin Yang, Aalborg University, Denmark
-- Yifeng Zheng, Harbin Institute of Technology, China
-- [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
-<br/>
-
-### **Publicity Chair**
-<img src="../figures/hongsheng.jpg" width="160">
-<br/>
-Hongsheng Hu
-<br/>
-University of Auckland
-<br/>
-<!-- - Hongxu Chen, University of Technology Sydney, Australia
-- Hongsheng Hu, University of Auckland, New Zealand -->
-<br/>
 
 ### **Sponsorship Chair**
 <img src="../figures/lianyong.jpg" width="160">
