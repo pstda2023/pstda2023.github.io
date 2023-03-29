@@ -17,19 +17,14 @@ permalink: /organization/
 
 |   <font size=5>**Publicity Chair**</font> |    |    |     |
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/hongsheng.jpg" width="230"/> |**Hongsheng Hu** <br>*Associate professor*<br>*University of Auckland* |  
+|<img align="center" src="../figures/hongsheng.jpg" width="230"/> |**Hongsheng Hu** <br>*Data61, CSIRO*<br>*University of Auckland* |  
 
 
-### **Sponsorship Chair**
-<img src="../figures/lianyong.jpg" width="160">
-<br/>
-Lianyong Qi
-<br/>
-Qufu Normal University
-<!-- - Zhi Zhang, Data61, Australia
-- Lianyong Qi, Qufu Normal University, China -->
+|   <font size=5>**Sponsorship Chair**</font> |    |    |     |
+|-----------|--------|--------------------|--------------|
+|<img align="center" src="../figures/lianyong.jpg" width="230"/> |**Lianyong Qi** <br>*Professor,*<br>*University of Auckland* |  
 
-<br/>
+
 
 ### **Web Chair**
 <br/>
