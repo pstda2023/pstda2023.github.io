@@ -5,45 +5,18 @@ permalink: /organization/
 ---
 
 
+|   <font size=5>**Genral Chairs**</font> |    |    |     ||
+|-----------|--------|---------|-----------|--------------|
+|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University* |   |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
+|<img align="center" src="../figures/guanfeng.jpg" width="230"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
+
+
 |   <font size=5>Genral Chairs</font> |    |    |     ||
 |-----------|--------|---------|-----------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>Professor<br>adipisicing |   |<img align="center" src="../figures/amin.jpg" width="230"/>      | Amin Beheshti<br>Professor<br>adipisicing 
-|<img align="center" src="../figures/amin.jpg" width="230"/> |       Amin Beheshti<br>Professor<br>adipisicing |   |<img align="center" src="../figures/amin.jpg" width="230"/>      | Amin Beheshti<br>Professor<br>adipisicing 
+|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University* |   |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
+|<img align="center" src="../figures/guanfeng.jpg" width="230"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
 
 
-
-
-<div class="wrap">
-    <img align="center" src="../figures/amin.jpg" width="230"/>
-    <span>Amin Beheshti<br>Professor<br>adipisicing</span>
-</div>
-
-<img align="center" src="../figures/amin.jpg" width="230"/>
-Amin Beheshti
-Professor
-Macquarie University
-
-<br/>
-
-<img src="../figures/sheng.jpg" width="160">
-<br/>
-Victor S. Sheng
-<br/>
-Associate professor
-<br/>
-Texas Tech University
-
-<br/>
-
-<img src="../figures/guanfeng.jpg" width="160">
-<br/>
-Guanfeng, Liu
-<br/>
-Senior Lectuer
-<br/>
-Macquarie University
-
-<br/>
 
 
 ### **Program Chair**
