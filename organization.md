@@ -5,24 +5,24 @@ permalink: /organization/
 ---
 
 
-|   <font size=5>**Genral Chairs**</font> |    |        ||
+|<font size=5>**Genral Chairs**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
 |-----------|--------|-------------------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="230"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="230"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
-|<img align="center" src="../figures/guanfeng.jpg" width="230"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
+|<img align="center" src="../figures/amin.jpg" width="180"/> |**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="180"/>      | **Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University*
+|<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
 
 
-|   <font size=5>**Program Chairs**</font> |    |    |     |
+|   <font size=5>**Program Chairs**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/hu.jpg" width="230"/> |**Jilin Hu** <br>*Associate professor*<br>*Aalborg University* |  
+|<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br>*Associate professor*<br>*Aalborg University* |  
 
-|   <font size=5>**Publicity Chair**</font> |    |    |     |
+|   <font size=5>**Publicity Chair**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/hongsheng.jpg" width="230"/> |**Hongsheng Hu** <br>*Data61, CSIRO*<br>*University of Auckland* |  
+|<img align="center" src="../figures/hongsheng.jpg" width="180"/> |**Hongsheng Hu** <br>*Data61, CSIRO*<br>*University of Auckland* |  
 
 
-|   <font size=5>**Sponsorship Chair**</font> |    |    |     |
+|   <font size=5>**Sponsorship Chair**</font> | <div style="width:180px">  |<div style="width:180px">|<div style="width:180px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/lianyong.jpg" width="230"/> |**Lianyong Qi** <br>*Professor,*<br>*University of Auckland* |  
+|<img align="center" src="../figures/lianyong.jpg" width="180"/> |**Lianyong Qi** <br>*Professor,*<br>*University of Auckland* |  
 
 
 
