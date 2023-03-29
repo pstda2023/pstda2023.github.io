@@ -5,11 +5,17 @@ permalink: /organization/
 ---
 
 ### **General Chairs**
+|    |    |    |     ||
+|-----------|--------|---------|-----------|--------------|
+|<img align="center" src="../figures/amin.jpg" width="230"/> |       Amin Beheshti<br>Professor<br>adipisicing |   |<img align="center" src="../figures/amin.jpg" width="230"/>      | Amin Beheshti<br>Professor<br>adipisicing 
+
+
+
 
 
 <div class="wrap">
     <img align="center" src="../figures/amin.jpg" width="230"/>
-    <span>Amin Beheshti<br>Professor<br>adipisicing.</span>
+    <span>Amin Beheshti<br>Professor<br>adipisicing</span>
 </div>
 
 <img align="center" src="../figures/amin.jpg" width="230"/>
