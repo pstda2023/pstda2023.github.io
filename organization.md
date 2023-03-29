@@ -8,16 +8,20 @@ permalink: /organization/
 <img src="../figures/amin.jpg" align="left" width="160">
 
 - Amin Beheshti, Macquarie University
+<br/>
 
 <img src="../figures/sheng.jpg" align="left" width="160">
 
 - A/Prof. Victor S. Sheng, Texas Tech University
+<br/>
 
 <img src="../figures/guanfeng.jpg" align="left" width="160">
 
 - Dr. Guanfeng, Liu, Macquarie University
+<br/>
 
 ### **Program Chair**
+
 
 <img src="../figures/hu.jpg" align="left" width="160">
 
@@ -25,6 +29,7 @@ permalink: /organization/
 <!-- - Bin Yang, Aalborg University, Denmark
 - Yifeng Zheng, Harbin Institute of Technology, China
 - [Xuyun Zhang](https://researchers.mq.edu.au/en/persons/xuyun-zhang), Macquarie University, Australia -->
+<br/>
 
 ### **Publicity Chair**
 <img src="../figures/hongsheng.jpg" align="left" width="160">
@@ -32,7 +37,7 @@ permalink: /organization/
 - Hongsheng Hu, University of Auckland
 <!-- - Hongxu Chen, University of Technology Sydney, Australia
 - Hongsheng Hu, University of Auckland, New Zealand -->
-
+<br/>
 
 ### **Sponsorship Chair**
 <img src="../figures/lianyong.jpg" align="left" width="160">
@@ -40,6 +45,7 @@ permalink: /organization/
 - Lianyong Qi, Qufu Normal University
 <!-- - Zhi Zhang, Data61, Australia
 - Lianyong Qi, Qufu Normal University, China -->
+<br/>
 
 ### **Web Chair**
 
