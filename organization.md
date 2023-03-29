@@ -12,7 +12,7 @@ permalink: /organization/
 </figure>
 
 
-<img align="left" src="../figures/amin.jpg" width="230"/>
+<img align="center" src="../figures/amin.jpg" width="230"/>
 
 Amin Beheshti
 
