@@ -5,13 +5,19 @@ permalink: /organization/
 ---
 
 
-|<font size=5>**Genral Chairs**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
-|-----------|--------|-------------------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="180"/> |**Amin Beheshti** <br><br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="180"/>      | **Victor S. Sheng** <br><br>*Associate professor*<br>*Texas Tech University* |
+|<font size=5>**Conference Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
+|-------------------|-------------------|--------------|
+|<img align="center" src="../figures/amin.jpg" width="180"/> |<img align="center" src="../figures/sheng.jpg" width="180"/>|<img align="center" src="../figures/guanfeng.jpg" width="180"/>| 
+|**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |**Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University* |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
+
+<!-- **Victor S. Sheng** <br><br>*Associate professor*<br>*Texas Tech University* |
 |<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br><br>*Senior Lecturer*<br>*Macquarie University* |   
 
+|<img align="center" src="../figures/amin.jpg" width="180"/> |**Amin Beheshti** <br><br>*Professor*<br>*Macquarie University*  |<img align="center" src="../figures/sheng.jpg" width="180"/>      | **Victor S. Sheng** <br><br>*Associate professor*<br>*Texas Tech University* |
+|<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br><br>*Senior Lecturer*<br>*Macquarie University* |    -->
 
-|   <font size=5>**Program Chairs**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
+
+|   <font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
 |<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/xuyun.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |  
 
