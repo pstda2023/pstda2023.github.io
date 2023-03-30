@@ -13,7 +13,7 @@ permalink: /organization/
 
 |   <font size=5>**Program Chairs**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/lianyong.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |  
+|<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/xuyun.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |  
 
 |   <font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
