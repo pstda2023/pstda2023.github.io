@@ -17,9 +17,15 @@ permalink: /organization/
 |<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br><br>*Senior Lecturer*<br>*Macquarie University* |    -->
 
 
-|   <font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
+|<font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
+|-------------------|-------------------|--------------|
+|<img align="center" src="../figures/hu.jpg" width="180"/> |<img align="center" src="../figures/xuyun.jpg" width="180"/>| | 
+|**Jilin Hu** <br>*Associate professor*<br>*Aalborg University*|**Xuyun Zhang**<br>*Macquarie University*||   
+
+
+<!-- |   <font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
-|<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/xuyun.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |  
+|<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/xuyun.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |   -->
 
 |   <font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
