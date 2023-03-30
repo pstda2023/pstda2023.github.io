@@ -7,7 +7,7 @@ permalink: /organization/
 
 |<font size=5>**Conference Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
-|<img align="center" src="../figures/amin.jpg" width="180"/> |<img align="center" src="../figures/sheng.jpg" width="180"/>|<img align="center" src="../figures/guanfeng.jpg" width="180"/>| 
+|<img align="center" src="../figures/amin.jpg" height="200"/> |<img align="center" src="../figures/sheng.jpg" height="200"/>|<img align="center" src="../figures/guanfeng.jpg" height="200"/>| 
 |**Amin Beheshti** <br>*Professor*<br>*Macquarie University*  |**Victor S. Sheng** <br>*Associate professor*<br>*Texas Tech University* |**Guanfeng Liu** <br>*Senior Lecturer*<br>*Macquarie University* |   
 
 <!-- **Victor S. Sheng** <br><br>*Associate professor*<br>*Texas Tech University* |
