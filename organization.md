@@ -17,7 +17,7 @@ permalink: /organization/
 |<img align="center" src="../figures/guanfeng.jpg" width="180"/> |**Guanfeng Liu** <br><br>*Senior Lecturer*<br>*Macquarie University* |    -->
 
 
-|<font size=5>**Program Committee Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
+|<font size=5>**Program** <br> **Committee Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
 |<img align="center" src="../figures/hu.jpg" height="200"/> |<img align="center" src="../figures/xuyun.jpg" height="200"/>|<img align="center" src="../figures/lianyong.jpg" height="200"/>  | 
 |**Jilin Hu** <br>*Associate professor*<br>*Aalborg University*|**Xuyun Zhang**<br>*Senior Lecturer*<br>*Macquarie University*|**Lianyong Qi**<br> *Professor*<br>*China University of Petroleum* |   
