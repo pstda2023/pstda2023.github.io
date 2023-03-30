@@ -52,7 +52,7 @@ permalink: /organization/
 
 <!-- - Haolong Xiang, Macquarie University, Australia -->
 
-### **Technical Program Committee**
+## **Technical Program Committee**
 <!-- To be updated ...
 Following are tentative PC members
 - Lingjuan Lyu,National University of Singapore,Singapore
