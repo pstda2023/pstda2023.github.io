@@ -20,7 +20,7 @@ permalink: /organization/
 |<font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
 |<img align="center" src="../figures/hu.jpg" height="200"/> |<img align="center" src="../figures/xuyun.jpg" height="200"/>|<img align="center" src="../figures/lianyong.jpg" height="200"/>  | 
-|**Jilin Hu** <br>*Associate professor*<br>*Aalborg University*|**Xuyun Zhang**<br>*Macquarie University*|**Lianyong Qi**<br> <br>*Professor*<br>*China University of Petroleum (East China)* |   
+|**Jilin Hu** <br>*Associate professor*<br>*Aalborg University*|**Xuyun Zhang**<br>*Macquarie University*|**Lianyong Qi**<br> *Professor*<br>*China University of Petroleum* |   
 
 
 <!-- |   <font size=5>**Program Committee**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
@@ -29,7 +29,7 @@ permalink: /organization/
 |<font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
 |<img align="center" src="../figures/hongsheng.jpg" height="200"/>|| | 
-|**Hongsheng Hu** <br><br>*Data61, CSIRO*<br>*University of Auckland* |||   
+|**Hongsheng Hu**<br>*Data61, CSIRO*<br>*University of Auckland* |||   
 
 <!-- |   <font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
@@ -38,7 +38,7 @@ permalink: /organization/
 |<font size=5>**Sponsorship Chair**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
 |<img align="center" src="../figures/lianyong.jpg" height="200"/> || | 
-|**Lianyong Qi**<br> <br>*Professor*<br>*China University of Petroleum (East China)* |||   
+|**Lianyong Qi**<br>*Professor*<br>*China University of Petroleum* |||   
 
 
 <!-- |   <font size=5>**Sponsorship Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
