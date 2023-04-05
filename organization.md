@@ -28,8 +28,8 @@ permalink: /organization/
 |<img align="center" src="../figures/hu.jpg" width="180"/> |**Jilin Hu** <br><br>*Associate professor*<br>*Aalborg University* |  <img align="center" src="../figures/xuyun.jpg" width="180"/> |**Xuyun Zhang**<br> <br>*Macquarie University* |   -->
 |<font size=5>**Publicity Chairs**</font> <div style="width:180px"> | <div style="width:180px">  |<div style="width:180px">|
 |-------------------|-------------------|--------------|
-|<img align="center" src="../figures/hongsheng.jpg" height="200"/>|| | 
-|**Hongsheng Hu**<br>*Data61, CSIRO*<br>*University of Auckland* |||   
+|<img align="center" src="../figures/hongsheng.jpg" height="200"/>|<img align="center" src="../figures/adnan.jpg" height="200"/>| | 
+|**Hongsheng Hu**<br>*Data61, CSIRO*<br>*University of Auckland* |**Adnan Mahmood**<br>*Macquarie University*||   
 
 <!-- |   <font size=5>**Publicity Chair**</font> <div style="width:180px"> | <div style="width:100px">  |<div style="width:180px">|<div style="width:100px">|
 |-----------|--------|--------------------|--------------|
