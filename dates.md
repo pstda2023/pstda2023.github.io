@@ -4,8 +4,8 @@ title: Important Dates
 permalink: /dates/
 ---
 
-# - **Submission deadline:**	
-# - **Notification date:**	
+# - **Submission deadline:**	*May 2, 2023* 
+# - **Notification date:**	*July 10, 2023*
 # - **Camera-ready due:**	
 # - **Event dates:**	
 
