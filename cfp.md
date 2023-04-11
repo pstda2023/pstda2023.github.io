@@ -44,16 +44,17 @@ permalink: /cfp/
 - Step 3: Enter your paper information and then use the "Submit" button at the bottom of the form.
 
 **Paper Length, Formatting, and Reviewing:**
-- The length of each paper submitted should be no more than 10 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the [IEEE Proceedings Author Guidelines](https://www.ieee.org/conferences/publishing/templates.html) for further information and instructions.
-- All submissions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.
-- Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.
+- <div style="text-align: justify"> The length of each paper submitted should be no more than 10 pages, and formatted following the standard 2-column U.S. letter style of IEEE Conference template. See the [IEEE Proceedings Author Guidelines](https://www.ieee.org/conferences/publishing/templates.html) for further information and instructions.</div>
+- <div style="text-align: justify"> All submissions will be double-blind reviewed by the Program Committee on the basis of technical quality, relevance to the scope of the special session, originality, significance, and clarity. The names and affiliations of authors must not appear in the submissions, and bibliographic references must be adjusted to preserve author anonymity. Submissions failing to comply with paper formatting and authors anonymity will be rejected without reviews.</div>
+- <div style="text-align: justify"> Authors are also encouraged to submit supplementary materials, i.e., providing the source code and data through a GitHub-like public repository to support the reproducibility of their research results.</div>
 <!-- **Submission portal:** [https://cmt3.research.microsoft.com/DSAA2022](https://cmt3.research.microsoft.com/DSAA2022) -->
 
 <!-- <div style="text-align: justify"> Special session papers strictly follow the same specifications, requirements, and policies as the main conference submissions in terms of paper formatting and length and important policies. Reviewing the submissions in each special session is coordinated by the special session organizers and is fully aligned to the main conference evaluation process. See [DSAA203 Important Policies](https://conferences.sigappfr.org/dsaa2023/cfp-for-special-sessions-track/) for more details. In particular: </div>
 
 <br/> -->
 **Proceedings, Indexing and Special Issues:**
-- All accepted full-length special session papers will be published by IEEE in the DSAA main conference proceedings under its Special Session scheme. All papers will be submitted for inclusion in the IEEEXplore Digital Library. The conference proceedings will be submitted for EI indexing through INSPEC by IEEE.
+- <div style="text-align: justify"> All accepted full-length special session papers will be published by IEEE in the DSAA main conference proceedings under its Special Session scheme. All papers will be submitted for inclusion in the IEEEXplore Digital Library. The conference proceedings will be submitted for EI indexing through INSPEC by IEEE.</div>
+
 <!-- 
 - Submissions must be original work and should not be under submission to other venues at the time of review.
 
@@ -71,22 +72,19 @@ permalink: /cfp/
 
 # **Important Policies**
 
-**Reproducibility:** 
-The advancement of science depends heavily on reproducibility. We strongly recommend that the authors release their code and data to the public. Authors can provide an optional two-page supplement at the end of their submitted paper (it needs to be in the same PDF file and start at page 11). This supplement can only be used to include:
-- Information necessary for reproducing the experimental results reported in the paper (e.g., various algorithmic and model parameters and configurations, hyper parameter search spaces, details related to data set filtering and train/test splits, software versions, detailed hardware configuration, etc.).
-- Any data, pseudo-code and proofs that could not be included in the main page of the manuscript due to space limitations.
+**Reproducibility:** <div style="text-align: justify"> The advancement of science depends heavily on reproducibility. We strongly recommend that the authors release their code and data to the public. Authors can provide an optional two-page supplement at the end of their submitted paper (it needs to be in the same PDF file and start at page 11). This supplement can only be used to include:</div>
 
-**Authorship:** 
-The list of authors at the time of submission is considered final and any further changes of the authorship are not allowed.
+- <div style="text-align: justify"> Information necessary for reproducing the experimental results reported in the paper (e.g., various algorithmic and model parameters and configurations, hyper parameter search spaces, details related to data set filtering and train/test splits, software versions, detailed hardware configuration, etc.).</div>
+- <div style="text-align: justify"> Any data, pseudo-code and proofs that could not be included in the main page of the manuscript due to space limitations.</div>
 
-**Dual submissions:** 
-DSAA is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.
+**Authorship:** <div style="text-align: justify"> The list of authors at the time of submission is considered final and any further changes of the authorship are not allowed.</div>
 
-**Conflicts of interest (COI):** 
-COIs must be declared at the time of submission. COIs include employment at the same institution within the past three years, collaborations during the past three years, advisor/advisee relationships, plus family and close friends.
+**Dual submissions:** <div style="text-align: justify"> DSAA is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.</div>
 
-**Attendance:** 
-At least one of the authors of each accepted paper must register in full and attend the conference to present the paper. No-show papers will be removed from the IEEE Xplore proceedings.
+**Conflicts of interest (COI):** <div style="text-align: justify"> COIs must be declared at the time of submission. COIs include employment at the same institution within the past three years, collaborations during the past three years, advisor/advisee relationships, plus family and close friends.</div>
+
+**Attendance:** <div style="text-align: justify"> At least one of the authors of each accepted paper must register in full and attend the conference to present the paper. No-show papers will be removed from the IEEE Xplore proceedings.
+</div>
 
 
 
