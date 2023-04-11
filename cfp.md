@@ -72,18 +72,21 @@ permalink: /cfp/
 
 # **Important Policies**
 
-**Reproducibility:** <div style="text-align: justify"> The advancement of science depends heavily on reproducibility. We strongly recommend that the authors release their code and data to the public. Authors can provide an optional two-page supplement at the end of their submitted paper (it needs to be in the same PDF file and start at page 11). This supplement can only be used to include:</div>
+<div style="text-align: justify"> <B>Reproducibility:</B> The advancement of science depends heavily on reproducibility. We strongly recommend that the authors release their code and data to the public. Authors can provide an optional two-page supplement at the end of their submitted paper (it needs to be in the same PDF file and start at page 11). This supplement can only be used to include:</div>
 
 - <div style="text-align: justify"> Information necessary for reproducing the experimental results reported in the paper (e.g., various algorithmic and model parameters and configurations, hyper parameter search spaces, details related to data set filtering and train/test splits, software versions, detailed hardware configuration, etc.).</div>
 - <div style="text-align: justify"> Any data, pseudo-code and proofs that could not be included in the main page of the manuscript due to space limitations.</div>
 
-**Authorship:** <div style="text-align: justify"> The list of authors at the time of submission is considered final and any further changes of the authorship are not allowed.</div>
+<div style="text-align: justify"> <B>Authorship:</B> The list of authors at the time of submission is considered final and any further changes of the authorship are not allowed.</div>
+</br>
 
-**Dual Submissions:** <div style="text-align: justify"> DSAA is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.</div>
+<div style="text-align: justify"> <B>Dual Submissions:</B> DSAA is an archival publication venue as such submissions that have been previously published, accepted, or are currently under consideration at other peer-review publication venues (i.e., journals, conferences, workshops with published proceedings, etc) are not permitted.</div>
+</br>
 
-**Conflicts of Interest (COI):** <div style="text-align: justify"> COIs must be declared at the time of submission. COIs include employment at the same institution within the past three years, collaborations during the past three years, advisor/advisee relationships, plus family and close friends.</div>
+<div style="text-align: justify"> <B>Conflicts of Interest (COI):</B> COIs must be declared at the time of submission. COIs include employment at the same institution within the past three years, collaborations during the past three years, advisor/advisee relationships, plus family and close friends.</div>
+</br>
 
-**Attendance:** <div style="text-align: justify"> At least one of the authors of each accepted paper must register in full and attend the conference to present the paper. No-show papers will be removed from the IEEE Xplore proceedings.
+<div style="text-align: justify"> <B>Attendance:</B> At least one of the authors of each accepted paper must register in full and attend the conference to present the paper. No-show papers will be removed from the IEEE Xplore proceedings.
 </div>
 
 
