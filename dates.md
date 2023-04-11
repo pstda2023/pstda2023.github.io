@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Important Dates
+title: Dates
 permalink: /dates/
 ---
 
