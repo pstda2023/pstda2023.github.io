@@ -5,17 +5,18 @@ permalink: /program/
 order: 1
 ---
 ### **Conference Program**
-**DSAA2023 conference program can be found here**
+**DSAA2023 conference program can be found here.**
 
-**PSTDA2023 Special Session is TBD.**
+<!-- **PSTDA2023 Special Session is TBD.** -->
 
 **Pay careful  attention to the time zone difference!**
 
 ### **Special Session Schedule**
+TBA
 <!-- **Date: Saturday 15 October 2022 (UTC+11, AEDT, Australia)** -->
 
-| <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
-|-------------------|--------------------|--------------|
+<!-- | <div style="width:150px"> Time Slot </div>    | <div style="width:180px">  Activity </div>   |  Speaker   |
+|-------------------|--------------------|--------------| -->
 <!-- | 05:00pm ~ 05:05pm |       Opening      |              |
 | 05:05pm ~ 06:00pm |   [Keynote Speech](https://xuyun-zhang.github.io/pstda2022/invited-speaker/) | Prof. Tianqing Zhu |
 | 06:00pm ~  07:00pm |      Session I     |              |
