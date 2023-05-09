@@ -53,7 +53,35 @@ permalink: /organization/
 <!-- - Haolong Xiang, Macquarie University, Australia -->
 
 ## **Technical Program Committee**
-TBA
+- Lingjuan Lyu, Sony AI, Japan
+- Xiaochun Cheng, Middlesex University, U.K.
+- Weizhi Meng, Technical University of Denmark, Denmark
+- Meng Liu, Shandong University, China
+- Xiaolong Xu, Nanjing University of Information Science and Technology, China
+- Zhiyuan Tan, Edinburgh Napier University, UK
+- Gaofeng Zhang, Hefei University of Technology, China
+- Liangfu Lv, Tianjin University, China
+- Yifeng Zheng, Harbin Institute of Technology, China
+- Yirui Wu, Hohai University, China
+- Shunmei Meng, Nanjing University of Science and Technology, China
+- Yanwei Xu, Tianjin University, China
+- Tao Xu, Northwestern Polytechnical University, China
+- Luigi Catuogno, University of Salerno, Italy
+- Dieter Gollmann, Hamburg University of Technology, Germany
+- Saeid Hosseini, Sohar University, Oman
+- Hadis Karimipour, University of Guelph, Canada
+- Weizhi Meng, Technical University of Denmark, Denmark
+- Vincenzo Moscato, University of Naples, Italy
+- Chao Chen, Swinburne University of Technology, Australia
+- Nathan Clarke, University of Plymouth, UK
+- Javier Parra-Arnau, Universitat Politècnica de Catalunya, Spain
+- Wenjuan Li, Hong Kong Polytechnic University, HongKong
+- Lam Kwok Yan, Nanyang Technological University, Singapore
+- Hui Liu, University of Calgary, Canada
+- Ali Ismail Awad, Lulea University of Technology, Sweden
+- Reza Malekian, Malmo University, Sweden
+
+
 <!-- To be updated ...
 Following are tentative PC members
 - Lingjuan Lyu,National University of Singapore,Singapore
