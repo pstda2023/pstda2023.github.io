@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Invited Speakers
-permalink: /invited-speaker/
+title: Steering Committee
+permalink: /Steering Committee/
 
 ---
 
-## **Keynote Speakers**
+<!-- ## **Keynote Speakers** -->
 TBA
 <!-- | [**Prof. Tianqing Zhu**](https://profiles.uts.edu.au/Tianqing.Zhu) |
 |--------------------|
