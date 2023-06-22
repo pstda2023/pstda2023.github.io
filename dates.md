@@ -5,7 +5,7 @@ permalink: /dates/
 ---
 
 # - **Submission deadline:**	*~~May 22,~~ May 29, 2023* 
-# - **Notification date:**	*July 17, 2023*
+# - **Notification date:**	*July 24, 2023*
 # - **Camera-ready due:**	*August 7, 2023*
 # - **Event dates:**	*Pending*
 
